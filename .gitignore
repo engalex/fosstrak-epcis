@@ -1,0 +1,41 @@
+
+# /
+/.settings
+/target
+/.classpath
+/.project
+
+# /epcis-captureclient/
+/epcis-captureclient/target
+/epcis-captureclient/.classpath
+/epcis-captureclient/.project
+/epcis-captureclient/.settings
+/epcis-captureclient/.checkstyle
+
+# /epcis-commons/
+/epcis-commons/target
+/epcis-commons/.classpath
+/epcis-commons/.project
+/epcis-commons/.settings
+/epcis-commons/.checkstyle
+
+# /epcis-interop-test/
+/epcis-interop-test/.classpath
+/epcis-interop-test/.project
+/epcis-interop-test/.settings
+/epcis-interop-test/target
+/epcis-interop-test/.checkstyle
+
+# /epcis-queryclient/
+/epcis-queryclient/.classpath
+/epcis-queryclient/.project
+/epcis-queryclient/.settings
+/epcis-queryclient/target
+/epcis-queryclient/.checkstyle
+
+# /epcis-repository/
+/epcis-repository/.classpath
+/epcis-repository/.project
+/epcis-repository/.settings
+/epcis-repository/target
+/epcis-repository/.checkstyle
